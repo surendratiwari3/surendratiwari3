@@ -58,6 +58,13 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 
+### API Development and Testing:
+
+![gRPC](https://img.shields.io/badge/-gRPC-009688?style=flat-square)
+![REST API](https://img.shields.io/badge/-REST%20API-FF5733?style=flat-square)
+![JMeter](https://img.shields.io/badge/-JMeter-D92C00?style=flat-square)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square)
+
 ### Cloud Platforms:
 
 ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
