@@ -1,6 +1,6 @@
 # Hello, I'm Surendra Tiwari 👋
 
-- 🚀 Software Engineer
+- 👨‍💻 Senior Software Architect
 - 🌱 Currently learning new technologies
 - 💻 Open source contributor
 
