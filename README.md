@@ -33,6 +33,11 @@
 ![ngrep](https://img.shields.io/badge/-ngrep-03A9F4?style=flat-square)
 ![sngrep](https://img.shields.io/badge/-sngrep-512DA8?style=flat-square)
 
+### No-Code Tools:
+
+![Node-RED](https://img.shields.io/badge/-Node--RED-8F0000?style=flat-square)
+![n8n](https://img.shields.io/badge/-n8n-396AFF?style=flat-square)
+
 ### Languages:
 
 ![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=white)
@@ -65,6 +70,18 @@
 ![JMeter](https://img.shields.io/badge/-JMeter-D92C00?style=flat-square)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square)
 
+### CI/CD:
+
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![CircleCI](https://img.shields.io/badge/-CircleCI-343434?style=flat-square&logo=circleci&logoColor=white)
+
+### Project Management:
+
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=trello&logoColor=white)
+![Confluence](https://img.shields.io/badge/-Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
+
+
 ### Cloud Platforms:
 
 ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
@@ -84,3 +101,18 @@
 ![New Relic](https://img.shields.io/badge/-New%20Relic-008C99?style=flat-square&logo=new-relic&logoColor=white)
 ![Datadog](https://img.shields.io/badge/-Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
 ![Sematext](https://img.shields.io/badge/-Sematext-F64D27?style=flat-square&logo=sematext&logoColor=white)
+![PagerDuty](https://img.shields.io/badge/-PagerDuty-000?style=flat-square&logo=pagerduty&logoColor=white)
+
+
+### Telecommunication Solutions:
+
+![Class 4 Switch](https://img.shields.io/badge/-Class%204%20Switch-005F57?style=flat-square)
+![Class 5 Switch](https://img.shields.io/badge/-Class%205%20Switch-005F57?style=flat-square)
+![Class 4-5 Switch](https://img.shields.io/badge/-Class%204-5%20Switch-005F57?style=flat-square)
+![Call Center Solution](https://img.shields.io/badge/-Call%20Center%20Solution-005F57?style=flat-square)
+![Contact Center Solution](https://img.shields.io/badge/-Contact%20Center%20Solution-005F57?style=flat-square)
+![OBD Dialers](https://img.shields.io/badge/-OBD%20Dialers-005F57?style=flat-square)
+![Conferencing Solution](https://img.shields.io/badge/-Conferencing%20Solution-005F57?style=flat-square)
+![CPaaS](https://img.shields.io/badge/-CPaaS-005F57?style=flat-square)
+![CCaaS](https://img.shields.io/badge/-CCaaS-005F57?style=flat-square)
+
