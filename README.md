@@ -32,6 +32,7 @@
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square)
 ![ngrep](https://img.shields.io/badge/-ngrep-03A9F4?style=flat-square)
 ![sngrep](https://img.shields.io/badge/-sngrep-512DA8?style=flat-square)
+![tcpdump](https://www.tcpdump.org/)
 
 ### No-Code Tools:
 
