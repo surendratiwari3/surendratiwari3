@@ -108,7 +108,6 @@
 
 ![Class 4 Switch](https://img.shields.io/badge/-Class%204%20Switch-005F57?style=flat-square)
 ![Class 5 Switch](https://img.shields.io/badge/-Class%205%20Switch-005F57?style=flat-square)
-![Class 4-5 Switch](https://img.shields.io/badge/-Class%204-5%20Switch-005F57?style=flat-square)
 ![Call Center Solution](https://img.shields.io/badge/-Call%20Center%20Solution-005F57?style=flat-square)
 ![Contact Center Solution](https://img.shields.io/badge/-Contact%20Center%20Solution-005F57?style=flat-square)
 ![OBD Dialers](https://img.shields.io/badge/-OBD%20Dialers-005F57?style=flat-square)
