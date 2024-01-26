@@ -107,7 +107,6 @@
 ![Sematext](https://img.shields.io/badge/-Sematext-F64D27?style=flat-square&logo=sematext&logoColor=white)
 ![PagerDuty](https://img.shields.io/badge/-PagerDuty-000?style=flat-square&logo=pagerduty&logoColor=white)
 
-
 ### Telecommunication Solutions:
 
 ![Class 4 Switch](https://img.shields.io/badge/-Class%204%20Switch-2E7D32?style=flat-square)
@@ -119,4 +118,10 @@
 ![CPaaS](https://img.shields.io/badge/-CPaaS-00ACC1?style=flat-square)
 ![CCaaS](https://img.shields.io/badge/-CCaaS-FFD600?style=flat-square)
 ![MicrosoftTeam Connector for SIP](https://img.shields.io/badge/-MicrosoftTeamsConnector-005F57?style=flat-square)
+![LCR](https://img.shields.io/badge/-LCR-008C99?style=flat-square)
+![SBC](https://img.shields.io/badge/-SBC-89C967?style=flat-square)
+![VoiceBoat](https://img.shields.io/badge/-VoiceBoat-F64D27?style=flat-square)
+![SipTrunk](https://img.shields.io/badge/-SipTrunk-2496ED?style=flat-square)
+
+
 
