@@ -29,7 +29,7 @@
 ![ICE](https://img.shields.io/badge/-ICE-03A9F4?style=flat-square)
 ![RTCP](https://img.shields.io/badge/-RTCP-673AB7?style=flat-square)
 ![SMPP](https://img.shields.io/badge/-SMPP-005F57?style=flat-square)
-![SMTP](https://img.shields.io/badge/-SMPP-005F57?style=flat-square)
+![SMTP](https://img.shields.io/badge/-SMTP-CE223D?style=flat-square)
 
 ### Network Analysis Tools:
 
