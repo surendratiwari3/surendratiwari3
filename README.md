@@ -107,13 +107,13 @@
 
 ### Telecommunication Solutions:
 
-![Class 4 Switch](https://img.shields.io/badge/-Class%204%20Switch-005F57?style=flat-square)
-![Class 5 Switch](https://img.shields.io/badge/-Class%205%20Switch-005F57?style=flat-square)
-![Call Center Solution](https://img.shields.io/badge/-Call%20Center%20Solution-005F57?style=flat-square)
-![Contact Center Solution](https://img.shields.io/badge/-Contact%20Center%20Solution-005F57?style=flat-square)
-![OBD Dialers](https://img.shields.io/badge/-OBD%20Dialers-005F57?style=flat-square)
-![Conferencing Solution](https://img.shields.io/badge/-Conferencing%20Solution-005F57?style=flat-square)
-![CPaaS](https://img.shields.io/badge/-CPaaS-005F57?style=flat-square)
-![CCaaS](https://img.shields.io/badge/-CCaaS-005F57?style=flat-square)
+![Class 4 Switch](https://img.shields.io/badge/-Class%204%20Switch-2E7D32?style=flat-square)
+![Class 5 Switch](https://img.shields.io/badge/-Class%205%20Switch-1976D2?style=flat-square)
+![Call Center Solution](https://img.shields.io/badge/-Call%20Center%20Solution-FF5722?style=flat-square)
+![Contact Center Solution](https://img.shields.io/badge/-Contact%20Center%20Solution-FFCA28?style=flat-square)
+![OBD Dialers](https://img.shields.io/badge/-OBD%20Dialers-FF5252?style=flat-square)
+![Conferencing Solution](https://img.shields.io/badge/-Conferencing%20Solution-8E24AA?style=flat-square)
+![CPaaS](https://img.shields.io/badge/-CPaaS-00ACC1?style=flat-square)
+![CCaaS](https://img.shields.io/badge/-CCaaS-FFD600?style=flat-square)
 ![MicrosoftTeam Connector for SIP](https://img.shields.io/badge/-MicrosoftTeamsConnector-005F57?style=flat-square)
 
