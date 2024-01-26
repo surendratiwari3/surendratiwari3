@@ -40,7 +40,7 @@
 ![n8n](https://img.shields.io/badge/-n8n-396AFF?style=flat-square)
 
 ## Static Code Analysis:
-[![SonarQube](https://img.shields.io/badge/SonarQube-Code%20Quality-blue?style=flat-square)
+![SonarQube](https://img.shields.io/badge/SonarQube-Code%20Quality-blue?style=flat-square)
 
 ### Languages:
 
