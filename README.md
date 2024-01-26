@@ -92,7 +92,7 @@
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=trello&logoColor=white)
 ![Confluence](https://img.shields.io/badge/-Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
-
+![Zoho](https://img.shields.io/badge/-Zoho-232F3E?style=flat-square&logo=zoho&logoColor=white)
 
 ### Cloud Platforms:
 
