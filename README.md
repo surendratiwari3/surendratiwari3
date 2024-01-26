@@ -80,7 +80,7 @@
 
 ### API Gateway
 ![traefik](https://img.shields.io/badge/-traefik-4479A1?style=flat-square)
-![aws-api-gateway](https://img.shields.io/badge/-aws-api-gateway-336791?style=flat-square)
+![AWS API Gateway](https://img.shields.io/badge/AWS%20API%20Gateway-%20-yellow?logo=amazon-aws)
 
 ### CI/CD:
 
