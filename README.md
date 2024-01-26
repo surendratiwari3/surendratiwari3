@@ -79,7 +79,7 @@
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square)
 
 ### API Gateway
-![traefik](https://img.shields.io/badge/-traefik-4479A1?style=flat-square)
+![Traefik](https://img.shields.io/badge/Traefik-%20-blue?logo=traefik)
 ![AWS API Gateway](https://img.shields.io/badge/AWS%20API%20Gateway-%20-yellow?logo=amazon-aws)
 
 ### CI/CD:
