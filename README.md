@@ -78,6 +78,10 @@
 ![JMeter](https://img.shields.io/badge/-JMeter-D92C00?style=flat-square)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square)
 
+### API Gateway
+![traefik](https://img.shields.io/badge/-traefik-4479A1?style=flat-square)
+![aws-api-gateway](https://img.shields.io/badge/-aws-api-gateway-336791?style=flat-square)
+
 ### CI/CD:
 
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
