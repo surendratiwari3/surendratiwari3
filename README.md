@@ -115,4 +115,6 @@
 ![Conferencing Solution](https://img.shields.io/badge/-Conferencing%20Solution-005F57?style=flat-square)
 ![CPaaS](https://img.shields.io/badge/-CPaaS-005F57?style=flat-square)
 ![CCaaS](https://img.shields.io/badge/-CCaaS-005F57?style=flat-square)
+![MicrosoftTeam Integration over SIP](https://img.shields.io/badge/-CCaaS-005F57?style=flat-square)
+![SipTrunk] (https://img.shields.io/badge/-SipTrunk-005F57?style=flat-square)
 
