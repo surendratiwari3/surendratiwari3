@@ -17,6 +17,8 @@
 ![RTPEngine](https://img.shields.io/badge/-RTPEngine-FF5733?style=flat-square&logo=rtpengine&logoColor=white)
 ![sipp](https://img.shields.io/badge/-sipp-2D2E2E?style=flat-square)
 ![sipsak](https://img.shields.io/badge/-sipsak-36A9E0?style=flat-square)
+![kannel](https://img.shields.io/badge/-kannel-36A9E0?style=flat-square)
+
 
 ### Communication Protocols:
 
@@ -26,6 +28,8 @@
 ![SRTP](https://img.shields.io/badge/-SRTP-FFC107?style=flat-square)
 ![ICE](https://img.shields.io/badge/-ICE-03A9F4?style=flat-square)
 ![RTCP](https://img.shields.io/badge/-RTCP-673AB7?style=flat-square)
+![SMPP](https://img.shields.io/badge/-SMPP-005F57?style=flat-square)
+![SMTP](https://img.shields.io/badge/-SMPP-005F57?style=flat-square)
 
 ### Network Analysis Tools:
 
